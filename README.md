@@ -8,3 +8,6 @@ Added data harvesting script that demonstrates functions and code used to gather
 
 # Update 3/13/2025
 Added a machine learning model (Gradient Boosting) and conducted analytics using it on a peer to test validity and practicality. Additionally, developed an initial prototype of a coaching model, laying the groundwork for future improvements and refining its functionality. This update sets the foundation for further optimization and testing.
+
+# Update 4/27/2025
+I’ve added a Project Summary Paper to this repository to give a clearer picture of what this project is about. In the paper, I walk through the goals, key features, challenges I faced, solutions I implemented, and some thoughts on future improvements. If you’re interested in a deeper dive into the project’s background and development process, you can check out the paper called: DS_Project_Report
